@@ -124,4 +124,7 @@ p {
   main {
     background-image: url(./images/pattern-background-mobile.svg);
   }
+  .cardContainer {
+    height: 65%;
+  }
 }
