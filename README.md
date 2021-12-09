@@ -34,8 +34,8 @@ Desktop View
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/codenay/order-summary-component-main.git)
-- Live Site URL: [Add live site URL here](https://codenay.github.io/order-summary-component-main/)
+- Solution URL: [solution URL](https://github.com/codenay/order-summary-component-main.git)
+- Live Site URL: [live site URL](https://codenay.github.io/order-summary-component-main/)
 
 ## My process
 
