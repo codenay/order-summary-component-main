@@ -123,6 +123,6 @@ p {
     background-image: url(./images/pattern-background-mobile.svg);
   }
   .cardContainer {
-    height: 65%;
+    max-height: 65%;
   }
 }
