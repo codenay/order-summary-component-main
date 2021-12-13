@@ -122,7 +122,4 @@ p {
   main {
     background-image: url(./images/pattern-background-mobile.svg);
   }
-  .cardContainer {
-    max-height: 65%;
-  }
 }
